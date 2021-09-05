@@ -1,0 +1,2 @@
+- Problemas com o java.library.path:
+https://examples.javacodegeeks.com/java-library-path-what-is-java-library-and-how-to-use/
